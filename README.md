@@ -1,4 +1,4 @@
-<img width="1440" alt="Note taking app screenshot" src="https://user-images.githubusercontent.com/10522495/62434988-f4724500-b710-11e9-9326-8b8c48d3df0d.jpg">
+<img width="660" alt="Captura de Tela 2019-08-08 às 21 40 30" src="https://user-images.githubusercontent.com/10522495/62746313-39ee8500-ba25-11e9-872f-a5b8355cb00b.png">
 
 # Angular Code Challenge
 Vanhack code challenge to verify angular development skill.
