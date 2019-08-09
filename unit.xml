@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 76.0.3809 (Mac OS X 10.14.5)" package="unit" timestamp="2019-08-08T01:27:43" id="0" hostname="MacBook-Pro-de-Wilton.local" tests="4" errors="0" failures="0" time="0.311">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/76.0.3809.100 Safari/537.36"/>
+  </properties>
+  <testcase name="RadioComponent should keep name as default state" time="0.179" classname="unit.RadioComponent"/>
+  <testcase name="RadioComponent should change model state with respective button click" time="0.033" classname="unit.RadioComponent"/>
+  <testcase name="TableComponent should correctly sort by name" time="0.07" classname="unit.TableComponent"/>
+  <testcase name="TableComponent should correctly sort by age" time="0.029" classname="unit.TableComponent"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
