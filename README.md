@@ -1,4 +1,4 @@
-<img width="660" alt="Captura de Tela 2019-08-08 às 21 40 30" src="https://user-images.githubusercontent.com/10522495/62746313-39ee8500-ba25-11e9-872f-a5b8355cb00b.png">
+<div style="width:660;margin:auto"><img width="660" alt="Captura de Tela 2019-08-08 às 21 40 30" src="https://user-images.githubusercontent.com/10522495/62746313-39ee8500-ba25-11e9-872f-a5b8355cb00b.png"></div>
 
 # Angular Code Challenge
 Vanhack code challenge to verify angular development skill.
